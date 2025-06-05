@@ -62,4 +62,4 @@ To use the Pretrained rooftop detection model:
 
    
 ## Results
-  ![Results](https://github.com/masoom-patel/Solar-Rooftop-Detection/blob/main/Results.jpg)
+  ![Results](Results.jpg)
